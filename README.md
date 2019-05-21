@@ -1,5 +1,4 @@
-# softpath
-The Soft Path - a reading list for softer skills
+# The Soft Path - a reading list for softer skills
 
 Throughout my IT career I have taken the Hard Path; hard UNIX sysadmin skills, hard Network Engineering skills. I've been lucky enough to have developed some soft skills too. A lot of talk nowadays is about so-called "Rock Star" engineers - which sounds wonderful until you realise that perhaps not everyone wants to work with people who trash their environment and throw television sets out the window on a regular basis.
 
