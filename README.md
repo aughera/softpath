@@ -5,3 +5,4 @@ Throughout my IT career I have taken the Hard Path; hard UNIX sysadmin skills, h
 
 As I approach 50, I realise that the skills which differenciate me from my peers are both hard and soft - and I began to wonder what my career would have been like if I'd put as many skill points into the soft skills tree as the hard skills tree.
 
+The wiki is a repository of talks and articles which resonate with me on several fronts. Read on...
